@@ -19,5 +19,6 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
 # sample Input-output image
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
- ![Tiger-mask0](https://user-images.githubusercontent.com/94883810/143028789-e43b5050-8af4-4df7-9f6e-dd1ff5445a3e.jpg)
-![Tiger-mask1](https://user-images.githubusercontent.com/94883810/143028916-8aa913fc-dd9c-45d4-b290-37e03f166a92.jpg)
+![Tiger-mask0](https://user-images.githubusercontent.com/94883810/143028789-e43b5050-8af4-4df7-9f6e-dd1ff5445a3e.jpg) ![Tiger-mask1](https://user-images.githubusercontent.com/94883810/143029024-7b1a360e-28f3-489e-874c-ad5886a60f54.jpg)
+
+
