@@ -6,3 +6,4 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
 
 - GMM are based on the assumption that all data points come from a fine mixture of Gaussian distributions with unkonw parameters.
 - Once we learn the Gaussian parameters, we can generate data from the same distribution as the sourse.
+ Suppose there are set of data points that needs to be grouped into several parts or clusters based on their similarty. In machine learning this known as ** clustring **
