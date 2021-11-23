@@ -22,7 +22,6 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Enter image name and number of componants of image.
  - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
-
 <table>
   <tr>
     <td>First Screen Page</td>
@@ -30,10 +29,11 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><![rose_Mask0](https://user-images.githubusercontent.com/94883810/143034251-7b421f0d-eb0c-4297-bf4d-2474d306054e.jpg)></td>
-    <td><![rose_Mask1](https://user-images.githubusercontent.com/94883810/143034300-9b842098-3ffd-4f46-8479-55ff8c6ba3c9.jpg)></td>
-    <td><![rose-Segmented](https://user-images.githubusercontent.com/94883810/143034409-331ca1e0-7496-4fe5-baf9-57ca7a7d0b82.jpg)></td>
+    <td valign="top"><img src="![rose_Mask0](https://user-images.githubusercontent.com/94883810/143034938-5bc312bf-8484-4da4-af18-f5ef3ceb4a76.jpg)"></td>
+    <td valign="top"><img src="![rose_Mask1](https://user-images.githubusercontent.com/94883810/143034994-0037d27a-bc72-4b76-8ade-fd09ac01ee24.jpg)"></td>
+    <td valign="top"><img src="![rose-Segmented](https://user-images.githubusercontent.com/94883810/143035040-e686b900-e597-47f0-a5b1-4041d4c97033.jpg)"></td>
   </tr>
  </table>
+  
 
 
