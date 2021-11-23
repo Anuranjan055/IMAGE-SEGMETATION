@@ -9,7 +9,7 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
 - Once we learn the Gaussian parameters, we can generate data from the same distribution as the sourse.
  #
  Suppose there are set of data points that needs to be grouped into several parts or clusters based on their similarty. In machine learning this known as  clustring.
- - I am skipping the mathemtical calculation for GGM.
+ - Mathemtical calculation and formulation for GGM has skipped here .
  
  # Code Dependencies
  - Numpy
