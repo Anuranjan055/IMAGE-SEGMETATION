@@ -16,9 +16,12 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Matplotlib
  - cv2
  - sklearn.mixture
-# sample Input-output image
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Tiger-mask0](https://user-images.githubusercontent.com/94883810/143028789-e43b5050-8af4-4df7-9f6e-dd1ff5445a3e.jpg) ![Tiger-mask1](https://user-images.githubusercontent.com/94883810/143029024-7b1a360e-28f3-489e-874c-ad5886a60f54.jpg)
+ # Intructions
+ - First get your sample image in "Images" folder 
+ - Run the image_segmentation_using_GMM (python sourse code file) to get the segmented image.
+ - Enter image name and number of componants of image.
+# Sample Input-output images
+
+
 
 
