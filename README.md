@@ -20,6 +20,7 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - First get your sample image in "Images" folder 
  - Run the image_segmentation_using_GMM (python sourse code file) to get the segmented image.
  - Enter image name and number of componants of image.
+ - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
 
 
