@@ -30,6 +30,7 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
 ![rose_Mask1](https://user-images.githubusercontent.com/94883810/143035872-4aee7c0c-e52f-4fec-82fb-1b11741fd7ab.jpg)
 
 - Segmentated image
+
 ![rose-Segmented](https://user-images.githubusercontent.com/94883810/143035951-edaa5e9c-32ee-4ae5-877e-d1eb6df371c7.jpg)
 
 
