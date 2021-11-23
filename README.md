@@ -23,9 +23,11 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
 - Input image
+- 
 ![rose](https://user-images.githubusercontent.com/94883810/143036286-968749a1-190a-419c-8dce-ca5b0986caeb.jpg)
 
 - Output images
+- 
 ![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
 ![rose_Mask1](https://user-images.githubusercontent.com/94883810/143035872-4aee7c0c-e52f-4fec-82fb-1b11741fd7ab.jpg)
 
