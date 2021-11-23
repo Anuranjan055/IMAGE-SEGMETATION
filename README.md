@@ -22,9 +22,9 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Enter image name and number of componants of image.
  - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
-Markup:![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
-Markup: ![rose_Mask1](https://user-images.githubusercontent.com/94883810/143035872-4aee7c0c-e52f-4fec-82fb-1b11741fd7ab.jpg)
-Markup: ![rose-Segmented](https://user-images.githubusercontent.com/94883810/143035951-edaa5e9c-32ee-4ae5-877e-d1eb6df371c7.jpg)
+![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
+![rose_Mask1](https://user-images.githubusercontent.com/94883810/143035872-4aee7c0c-e52f-4fec-82fb-1b11741fd7ab.jpg)
+![rose-Segmented](https://user-images.githubusercontent.com/94883810/143035951-edaa5e9c-32ee-4ae5-877e-d1eb6df371c7.jpg)
 
 
 
