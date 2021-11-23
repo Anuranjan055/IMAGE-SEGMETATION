@@ -23,6 +23,17 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
 
-
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><![rose_Mask0](https://user-images.githubusercontent.com/94883810/143034251-7b421f0d-eb0c-4297-bf4d-2474d306054e.jpg)></td>
+    <td><![rose_Mask1](https://user-images.githubusercontent.com/94883810/143034300-9b842098-3ffd-4f46-8479-55ff8c6ba3c9.jpg)></td>
+    <td><![rose-Segmented](https://user-images.githubusercontent.com/94883810/143034409-331ca1e0-7496-4fe5-baf9-57ca7a7d0b82.jpg)></td>
+  </tr>
+ </table>
 
 
