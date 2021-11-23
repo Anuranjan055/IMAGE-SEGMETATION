@@ -16,4 +16,6 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Matplotlib
  - cv2
  - sklearn.mixture
- 
+# sample Input-output image
+![Tiger](https://user-images.githubusercontent.com/94883810/143028324-aea64fa6-5d53-451e-8972-903b764a6876.jpg)
+![Tiger-Segmented](https://user-images.githubusercontent.com/94883810/143028384-5b918de1-81b8-4dd6-b246-01d0f1cf8f41.jpg)
