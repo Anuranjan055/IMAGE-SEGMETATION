@@ -22,18 +22,11 @@ In this project I have done segmentation of image using Gaussian Mixture Model (
  - Enter image name and number of componants of image.
  - Output segmented image will be store in "Result" folder.
 # Sample Input-output images
-<table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="![rose_Mask0](https://user-images.githubusercontent.com/94883810/143034938-5bc312bf-8484-4da4-af18-f5ef3ceb4a76.jpg)"></td>
-    <td valign="top"><img src="![rose_Mask1](https://user-images.githubusercontent.com/94883810/143034994-0037d27a-bc72-4b76-8ade-fd09ac01ee24.jpg)"></td>
-    <td valign="top"><img src="![rose-Segmented](https://user-images.githubusercontent.com/94883810/143035040-e686b900-e597-47f0-a5b1-4041d4c97033.jpg)"></td>
-  </tr>
- </table>
-  
+Markup : ![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
+Markup : ![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
+Markup : ![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
+Markup : ![rose_Mask0](https://user-images.githubusercontent.com/94883810/143035412-79445923-d60d-457c-985c-5399554d0fe5.jpg)
+
+
 
 
