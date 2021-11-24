@@ -1,4 +1,4 @@
-# IMAGE-SEGMETATION
+# IMAGE-SEGMENTATION
 There are various method of image segmentation such as Thesholding method, Edge Based Method, Region Based method, Clustering Method and many more.
 In this project I have done segmentation of image using Gaussian Mixture Model (GMM)
 
